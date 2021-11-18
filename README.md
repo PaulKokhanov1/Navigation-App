@@ -22,7 +22,7 @@ However I believe it has something to do with the location updates. I do remove 
 Contributors names and contact info
 
 Paul Kokhanov
-  [@PaulKokhanov](www.linkedin.com/in/paulkokhanov)
+  [@PaulKokhanov](https://www.linkedin.com/in/paulkokhanov/)
 
 ## Version History
 
