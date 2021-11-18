@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_clear">Clear\'s Map</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="disconnect">DISCONNECT</string>
+</resources>
