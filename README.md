@@ -17,6 +17,13 @@ facing and the direction the user needs to go. The Circuit consists of 4 LED's, 
 There seems to be a memory leak whenever the map Activity is destroyed. I tried my best to elimnate all variables that are being referenced prior to the activity being destroyed.
 However I believe it has something to do with the location updates. I do remove location updates once the activity is destroyed however there still seems to be retained references within the code.
 
+## Demonstration
+
+
+https://user-images.githubusercontent.com/69466838/143788833-f0011eb3-81f1-4d26-a546-9c2c416d0959.mp4
+
+
+
 ## Authors
 
 Contributors names and contact info
