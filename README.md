@@ -23,6 +23,10 @@ However I believe it has something to do with the location updates. I do remove 
 https://user-images.githubusercontent.com/69466838/143788833-f0011eb3-81f1-4d26-a546-9c2c416d0959.mp4
 
 
+## Ardunio Schematic
+
+![circuit](https://user-images.githubusercontent.com/69466838/144080685-a95a1d7e-4d58-4756-ab46-6ae03222b829.png)
+
 
 ## Authors
 
